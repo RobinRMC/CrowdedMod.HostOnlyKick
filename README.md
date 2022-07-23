@@ -1,5 +1,5 @@
 # CrowdedMod.HostOnlyKick
-This mod changes vote-kicking feature in Among Us to only allow lobby host to kick players. </br>
+This mod changes the vote-kicking feature in Among Us to only allow the lobby host to kick players.</br>
 It was originally created to prevent targetting in big player lobbies, as an extension to [CrowdedMod](https://github.com/CrowdedMods/CrowdedMod), but
 it can be used independently.
 ## Versions
